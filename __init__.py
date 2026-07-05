@@ -5,3 +5,4 @@
 from .login_types import *
 from .defines import *
 from .trade_data import *
+from .config import *
