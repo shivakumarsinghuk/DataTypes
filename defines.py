@@ -18,6 +18,7 @@ LOGIC_REVERSE_CANDLE = "reversecandle"
 LOGIC_VWAP_HFOUR = "vwaph4"
 LOGIC_BANK_NIFTY_CAMARILLA = "banknifty_camarilla"
 LOGIC_BANK_NIFTY_ORB = "banknifty_orb"
+LOGIC_VWAP_PIERCING_OPTIONS = "vwappiercingoptions"
 
 #Define
 DATE_TIME = "date"
